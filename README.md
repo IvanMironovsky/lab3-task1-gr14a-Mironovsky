@@ -9,3 +9,7 @@ Please, edit README and add some details, as instance **{add your last name, fir
 # Building
 
 Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+
+# Personal Information
+
+Mironovsky Ivan, group 14a
